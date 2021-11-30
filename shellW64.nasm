@@ -223,7 +223,8 @@ mov [r14], word 0x2
 
 xor r9, r9
 
-Código completo.
+Código completo en...
+Complete code on...
 https://www.patreon.com/BGPavelAng
 Ayudame a seguir haciendo más de esto.
 

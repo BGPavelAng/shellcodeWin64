@@ -1,6 +1,5 @@
 ;//////////Codigo por Belial Grimoire////////////
 ;/////bgpavelang.github.io//////
-;///Gracias por credito a mi trabajo/////
 ;//////////////////////////////////////////
 
 global _start

@@ -225,6 +225,6 @@ xor r9, r9
 ......
 
 Código completo en...
-https://www.patreon.com/BGPavelAng
+
 Ayudame a seguir haciendo más de esto.
 

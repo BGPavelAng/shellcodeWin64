@@ -226,5 +226,7 @@ xor r9, r9
 
 Código completo en...
 
+buymeacoffee.com/pavelang/donativo
+
 Ayudame a seguir haciendo más de esto.
 
